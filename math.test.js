@@ -13,7 +13,7 @@ test('Factorial de 5', () => {
 });
 
 test('Factorial de 0', () => {
-  expect(factorial(0)).toBe(2);
+  expect(factorial(0)).toBe(1);
 });
 
 test('Dijkstra de un grafo simple', () => {
